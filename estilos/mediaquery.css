@@ -22,6 +22,8 @@ Paleta de cores
 
     section#login{
         width: 90vw;
+        height: 400px;
+        
     }
 
     section#login > div#imagem {
@@ -71,5 +73,6 @@ Paleta de cores
     div#formulario > p {
         font-size: 1.2em;
         text-align: center;
+        margin: 20px 0px;
     }
 }
